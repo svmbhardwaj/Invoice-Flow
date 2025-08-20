@@ -1,0 +1,12 @@
+/* Custom styles for Delhi Invoice Flow */
+/* This file can be used for any app-specific styles that don't fit in the design system */
+
+/* Remove default Vite styles that might conflict */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* Custom utility classes can be added here if needed */
